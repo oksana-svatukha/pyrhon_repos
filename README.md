@@ -16,3 +16,4 @@ Key features of the project:
 
 This project not only provided insights into the popularity trends of Python projects on GitHub but also served as an excellent exercise in real-world data collection, processing, and visualization techniques.
  It's a practical example of how APIs can be used to gather valuable data and how modern visualization tools can make that data accessible and understandable.
+![image](https://github.com/user-attachments/assets/d26ecbad-c8df-455a-bbe4-ab2d596a946c)
